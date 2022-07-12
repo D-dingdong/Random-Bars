@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+}
+
+.bar {
+  width: 20px;
+  height: 0px;
+  background-color: white;
+  position: absolute;
+  bottom: 0px;
+  transition: 1s;
+}
